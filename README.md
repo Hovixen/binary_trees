@@ -1,13 +1,14 @@
 # Binary trees
 
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Ftechvidvan.com%2Ftutorials%2Fwp-content%2Fuploads%2Fsites%2F2%2F2021%2F07%2FBinary-Trees-in-C-normal-image01.jpg&tbnid=6WcvU5VcgqrQwM&vet=12ahUKEwjVlLfblb-DAxVZmScCHVNrAIsQMygAegQIARBX..i&imgrefurl=https%3A%2F%2Ftechvidvan.com%2Ftutorials%2Fbinary-tree-in-c%2F&docid=v5Xdh27-HSMQzM&w=600&h=477&q=binary%20tree%20in%20C&hl=en&ved=2ahUKEwjVlLfblb-DAxVZmScCHVNrAIsQMygAegQIARBX)
-
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNYRp3uQLGuIkqeKfwxlIa5m6G_MV6ojEvMw&usqp=CAU)
 
 This Project was completed during **Full Stack Software Engineering studies** at **ALX_SE**. It aims to learn about what is a binary tree, the different traversal methods to go through a binary tree and the different types of binary trees (complete, full, perfect and balanced).
 
 ## Technologies
 > Scripts written in Bash 5.0.17(1)
+
 > C files are compiled using `gcc 9.4.0`
+
 > Tested on `Ubuntu 20.04 LTS`
 
 ## Files
