@@ -5,6 +5,7 @@
 This Project was completed during **Full Stack Software Engineering studies** at **ALX_SE**. It aims to learn about what is a binary tree, the different traversal methods to go through a binary tree and the different types of binary trees (complete, full, perfect and balanced).
 
 ## Technologies
+
 > Scripts written in Bash 5.0.17(1)
 
 > C files are compiled using `gcc 9.4.0`
